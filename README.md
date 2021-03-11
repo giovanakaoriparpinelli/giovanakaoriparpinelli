@@ -40,10 +40,10 @@ E estou cursando a faculdade de Engenharia de Software na<b> Universidade Tecnol
 - 📫 Se quiser pode enviar um email para kaoriparpinelli@gmail.com;
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanakaoriparpinelli&layout=compact&theme=graywhite&title_color=268bd2" alt="Giovana-Kaori" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanakaoriparpinelli&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Giovana-Kaori" />
 </p>
 
 <br>
