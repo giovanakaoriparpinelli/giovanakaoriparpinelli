@@ -19,6 +19,7 @@ Me chamo <b> Giovana Kaori Parpinelli</b>.
 Atualmente moro em Cornélio Procópio - Paraná - BR.<br />
 <br>
 E estou cursando a faculdade de Engenharia de Software na<b> Universidade Tecnológica Federal do Paraná</b>.
+<br>
 Nas horas livres estou sempre lendo e tentando ficar por dentro dos assuntos mais recentes do mundo tecnológico.
 </p>
 
