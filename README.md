@@ -35,6 +35,7 @@ Nas horas livres estou sempre lendo e tentando me iterar sobre os assuntos mais 
 - 💻 Estou cursando a Faculdade de Engenharia de Software, e aprendendo coisas novas todos os dias;
 - 💼 Sou apaixonada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👧🏻 Procuro sempre humanizar meus projetos, vizando sempre uma experiência muito rica de informações e aprendizados, para a evolução pessoal e comunitária dos usuários;
+- 📚 Estou sempre disposta a aprender coisas novas, sem medo de errar;
 - 👾 Meus hobbies são: 
   - Me aprofundar e aprender cada vez mais sobre o mundo do Front-end; 
   - Ler noticias, livros e assuntos ligados a tecnologia, gosto de estar por dentro dos assuntos;
