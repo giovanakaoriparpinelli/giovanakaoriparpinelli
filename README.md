@@ -60,9 +60,8 @@ E estou cursando a faculdade de Engenharia de Software na<b> Universidade Tecnol
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/giovanakaoriparpinelli/count.svg" />
- </p>
-
-<p>
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi) e [teteusAraujo](https://github.com/teteusAraujo)
-⭐ Com a ajuda da maravilhosa [Strongreen](https://github.com/Strongreen)
 </p>
+
+⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi) e [teteusAraujo](https://github.com/teteusAraujo)
+<br>
+⭐ Com a ajuda da maravilhosa [Strongreen](https://github.com/Strongreen)
