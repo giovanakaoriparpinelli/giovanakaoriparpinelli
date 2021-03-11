@@ -47,10 +47,11 @@ Nas horas livres estou sempre lendo e tentando me iterar sobre os assuntos mais 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanakaoriparpinelli&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanakaoriparpinelli&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanakaoriparpinelli&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Giovana-Kaori-Parpinelli" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovanakaoriparpinelli" alt="Giovana-Kaori-Parpinelli" /> </p>
 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+<br>
 ⭐ Com a ajuda da maravilhosa Herika Strongreen
