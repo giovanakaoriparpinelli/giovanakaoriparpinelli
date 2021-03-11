@@ -14,7 +14,6 @@ Me chamo <b> Giovana Kaori Parpinelli</b>.
 </p>
 <a href="https://www.linkedin.com/in/giovana-kaori-parpinelli-824b65178/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-  <br>
 </a>
 <p align="left" >
 Atualmente moro em Cornélio Procópio - Paraná - BR.<br />
