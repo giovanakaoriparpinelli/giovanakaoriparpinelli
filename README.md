@@ -54,4 +54,4 @@ Nas horas livres estou sempre lendo e tentando me iterar sobre os assuntos mais 
 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 <br>
-⭐ Com a ajuda da maravilhosa Herika Strongreen
+⭐ Com a ajuda da maravilhosa [Strongreen](https://github.com/Strongreen)
