@@ -43,13 +43,12 @@ E estou cursando a faculdade de Engenharia de Software na<b> Universidade Tecnol
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanakaoriparpinelli&layout=compact&theme=graywhite&title_color=268bd2" alt="Giovana-Kaori-Parpinelli" />
 </p>
 <p>&nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanakaoriparpinelli&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Giovana-Kaori-Parpinelli" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=giovanakaoriparpinelli&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Giovana-Kaori-Parpinelli" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovanakaoriparpinelli" alt="Giovana-Kaori-Parpinelli" /> </p>
 
-<br><br>
-
+<br>
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 <br>
 ⭐ Com a ajuda da maravilhosa [Strongreen](https://github.com/Strongreen)
