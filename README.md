@@ -46,10 +46,10 @@ Nas horas livres estou sempre lendo e tentando ficar por dentro dos assuntos mai
 - 📫 Se quiser pode enviar um email para kaoriparpinelli@gmail.com;
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanakaoriparpinelli&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanakaoriparpinelli&layout=compact&theme=graywhite&title_color=268bd2" alt="Giovana-Kaori-Parpinelli" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanakaoriparpinelli&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Giovana-Kaori-Parpinelli" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanakaoriparpinelli&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Giovana-Kaori-Parpinelli" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovanakaoriparpinelli" alt="Giovana-Kaori-Parpinelli" /> </p>
