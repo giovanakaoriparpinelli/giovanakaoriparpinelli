@@ -27,6 +27,7 @@ E estou cursando a faculdade de Engenharia de Software na<b> Universidade Tecnol
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615437851514.png" width="400px" />
 
+- ✨ Meu principal interesse dentro do GitHub é crescer como desenvolvedora, pois sou iniciante em programação. Desta forma registrarei aqui meus primeiros códigos;
 - 💻 Estou cursando a Faculdade de Engenharia de Software, e aprendendo coisas novas todos os dias;
 - 💼 Sou apaixonada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👧🏻 Procuro sempre humanizar meus projetos, vizando sempre uma experiência muito rica de informações e aprendizados, para a evolução pessoal e comunitária dos usuários;
