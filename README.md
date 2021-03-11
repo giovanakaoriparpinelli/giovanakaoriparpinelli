@@ -40,9 +40,8 @@ Nas horas livres estou sempre lendo e tentando ficar por dentro dos assuntos mai
 - 👾 Meus hobbies são: 
   - Me aprofundar e aprender cada vez mais sobre o mundo do Front-end; 
   - Ler noticias, livros e assuntos ligados a tecnologia, gosto de estar por dentro dos assuntos;
-  - Assistir animes, sou encantada por esse cultura, já que sou mestiça e tenho descendência japonesa;
+  - Assistir animes, sou encantada por essa cultura, já que sou mestiça e tenho descendência japonesa;
   - Ouvir muita música boa, pra lavar a alma, rock é meu estilo preferido;
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para kaoriparpinelli@gmail.com;
 
 <p>
