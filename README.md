@@ -53,8 +53,9 @@ Nas horas livres estou sempre lendo e tentando ficar por dentro dos assuntos mai
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovanakaoriparpinelli" alt="Giovana-Kaori-Parpinelli" /> </p>
-<br>
-<br>
+
+<br><br>
+
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 <br>
 ⭐ Com a ajuda da maravilhosa [Strongreen](https://github.com/Strongreen)
