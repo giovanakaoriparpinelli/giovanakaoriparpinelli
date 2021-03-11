@@ -10,20 +10,21 @@
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
-Me chamo <b> Giovana Kaori Parpinelli </b>.
+Me chamo <b> Giovana Kaori Parpinelli. </b>.
 </p>
 <a href="https://www.youtube.com/channel/UCNnLzpTAS8vnIyPPas8B6QA" target="_blank">
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 <p align="left" >
 Atualmente moro em Cornélio Procópio - Paraná - BR.<br />
-E estou cursando a faculdade de Engenharia de Software <b> na Universidade Tecnológica Federal do Paraná </b>.
+<br>
+E estou cursando a faculdade de Engenharia de Software na<b> Universidade Tecnológica Federal do Paraná. </b>.
 </p>
 <a href="https://www.linkedin.com/in/giovana-kaori-parpinelli-824b65178/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Nas horas livres estou sempre lendo e tentando me iterar sobre os assuntos mais recentes do mundo tecnológico
+Nas horas livres estou sempre lendo e tentando ficar por dentro dos assuntos mais recentes do mundo tecnológico.
 </p>
 
 <hr />
