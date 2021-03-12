@@ -10,7 +10,7 @@
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
-Me chamo <b> Giovana Kaori Parpinelli</b>.
+  Me chamo <b> Giovana Kaori Parpinelli</b> , mas pode me chamar de <b> Gi </b>.
 </p>
 <a href="https://www.linkedin.com/in/giovana-kaori-parpinelli-824b65178/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
