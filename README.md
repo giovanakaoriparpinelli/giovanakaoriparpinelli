@@ -39,11 +39,11 @@ E estou cursando a faculdade de Engenharia de Software na<b> Universidade Tecnol
   - Ouvir muita música boa, pra lavar a alma, rock é meu estilo preferido;
 - 📫 Se quiser pode enviar um email para kaoriparpinelli@gmail.com;
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovanakaoriparpinelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giovanakaoriparpinelli&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovanakaoriparpinelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giovanakaoriparpinelli&layout=compact&langs_count=8&theme=dracula"/>
 <div>
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total de Visitas no perfil 👀 <br>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/giovanakaoriparpinelli/count.svg" />
 </p>
