@@ -35,8 +35,8 @@ E estou cursando a faculdade de Engenharia de Software na<b> Universidade Tecnol
 - 👾 Meus hobbies são: 
   - Me aprofundar e aprender cada vez mais sobre o mundo do Front-end; 
   - Ler noticias, livros e assuntos ligados a tecnologia, gosto de estar por dentro dos assuntos;
-  - Assistir animes, sou encantada por essa cultura, já que sou mestiça e tenho descendência japonesa;
-  - Ouvir muita música boa, pra lavar a alma, rock é meu estilo preferido;
+  - Assistir animes;
+  - Ouvir muita música boa, rock é meu estilo preferido;
 - 📫 Se quiser pode enviar um email para kaoriparpinelli@gmail.com;
 
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovanakaoriparpinelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
