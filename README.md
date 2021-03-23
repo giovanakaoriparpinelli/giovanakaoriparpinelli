@@ -39,26 +39,13 @@ E estou cursando a faculdade de Engenharia de Software na<b> Universidade Tecnol
   - Ouvir muita música boa, pra lavar a alma, rock é meu estilo preferido;
 - 📫 Se quiser pode enviar um email para kaoriparpinelli@gmail.com;
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanakaoriparpinelli&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=giovanakaoriparpinelli&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
-
-<p align="center"> 
+<div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovanakaoriparpinelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giovanakaoriparpinelli&layout=compact&langs_count=8&theme=dracula"/>
+<div>
 
  ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
+<p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/giovanakaoriparpinelli/count.svg" />
 </p>
 
