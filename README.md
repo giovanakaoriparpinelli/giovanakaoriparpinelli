@@ -3,7 +3,6 @@
 <a href="https://giovanakaoriparpinelli.github.io/">
   <img align="right" src="./img/faviconGKgithub.ico/" width="45px" height="45px">
 </a><br />
-<br>
 <p align="left" > 
   <b>E aí galeraaa!</b>
 </p>
