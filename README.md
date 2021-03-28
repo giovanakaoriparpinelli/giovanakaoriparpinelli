@@ -21,6 +21,7 @@ E estou cursando a faculdade de Engenharia de Software na<b> Universidade Tecnol
 <a href="https://github.com/giovanakaoriparpinelli" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
+<br>
 
 <hr />
 
