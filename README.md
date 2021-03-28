@@ -1,8 +1,9 @@
 <h1 align="center"> ✨ Seja muito bem vindo(a) ao meu perfil! ✨</h1>
 <hr />
-<a href="https://github.com/giovanakaoriparpinelli" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+<a href="https://giovanakaoriparpinelli.github.io/">
+  <img align="right" src="./img/faviconGKgithub.ico/" width="45px" height="45px">
 </a><br />
+<br>
 <p align="left" > 
   <b>E aí galeraaa!</b>
 </p>
@@ -18,11 +19,9 @@
 Atualmente moro em Cornélio Procópio - Paraná - BR.<br />
 <br>
 E estou cursando a faculdade de Engenharia de Software na<b> Universidade Tecnológica Federal do Paraná</b>.
-<a href="https://giovanakaoriparpinelli.github.io/">
-  <img align="right" src="./img/faviconGKgithub.ico/" width="45px" height="45px">
+<a href="https://github.com/giovanakaoriparpinelli" target="_blank">
+  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
-<br>
-
 
 <hr />
 
