@@ -14,7 +14,11 @@
 </p>
 <a href="https://www.linkedin.com/in/giovana-kaori-parpinelli-824b65178/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
+</p>
+<a href="https://giovanakaoriparpinelli.github.io/">
+  <img align="right" src="./img/faviconGKgithub.ico/" width="48px" height="48px">
+</a><br />
+<p align="left" >
 <p align="left" >
 Atualmente moro em Cornélio Procópio - Paraná - BR.<br />
 <br>
