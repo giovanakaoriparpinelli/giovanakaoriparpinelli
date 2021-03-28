@@ -16,7 +16,7 @@
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </p>
 <a href="https://giovanakaoriparpinelli.github.io/">
-  <img align="right" src="./img/faviconGKgithub.ico/" width="48px" height="48px">
+  <img align="left" src="./img/faviconGKgithub.ico/" width="45px" height="45px">
 </a><br />
 <p align="left" >
 <p align="left" >
