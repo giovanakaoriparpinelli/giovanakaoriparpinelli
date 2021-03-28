@@ -14,7 +14,7 @@
 </p>
 <a href="https://www.linkedin.com/in/giovana-kaori-parpinelli-824b65178/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
+</a><br />
 Atualmente moro em Cornélio Procópio - Paraná - BR.<br />
 <br>
 E estou cursando a faculdade de Engenharia de Software na<b> Universidade Tecnológica Federal do Paraná</b>.
