@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615437851514.png" width="400px" />
 
-- 📫 Se quiser pode enviar um email para kaoriparpinelli@gmail.com;
+- 📫 Se quiser pode enviar um email para kaoriparpinelli@gmail.com
 
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovanakaoriparpinelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giovanakaoriparpinelli&layout=compact&langs_count=8&theme=dracula"/>
@@ -12,7 +12,3 @@
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/giovanakaoriparpinelli/count.svg" />
 </p>
-
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi) e [teteusAraujo](https://github.com/teteusAraujo) e [rafaballerini](https://github.com/RafaBallerini)
-<br>
-⭐ Com a ajuda da maravilhosa [Strongreen](https://github.com/Strongreen)
