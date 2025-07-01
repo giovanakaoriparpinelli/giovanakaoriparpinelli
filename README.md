@@ -38,9 +38,9 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 ## Arsenal Tecnológico
 
-<table style="border: none;">
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
 <tr>
-<td width="50%" valign="top" style="border: none;">
+<td width="50%" valign="top" style="border: none; padding: 0;">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-FFE4E6?style=flat-square&logo=react&logoColor=61DAFB)
@@ -58,7 +58,7 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 ![Git](https://img.shields.io/badge/Git-FFE6E6?style=flat-square&logo=git&logoColor=F05032)
 
 </td>
-<td width="50%" align="center" style="border: none;">
+<td width="50%" align="center" style="border: none; padding: 0;">
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="600" alt="Coding GIF" style="border-radius: 15px; filter: hue-rotate(320deg) saturate(0.7) brightness(1.1);"/>
 
