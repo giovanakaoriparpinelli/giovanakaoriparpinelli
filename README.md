@@ -38,7 +38,7 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 ## Tecnologias
 
-<div style="display: flex; align-items: flex-start; gap: 30px;">
+<div style="display: flex; align-items: flex-start; gap: 50px;">
 
 <div style="flex: 1;">
 
@@ -50,7 +50,7 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 ![Git](https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![.NET](https://img.shields.io/badge/-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
