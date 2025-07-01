@@ -40,31 +40,28 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
-<div style="flex: 1; padding-right: 10px;">
+<div style="flex: 0 0 300px; padding-right: 20px;">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-FFE4E6?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-E6F7FF?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-F0E6FF?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-E6FFFA?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![React](https://img.shields.io/badge/React-FFE4E6?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-F0E6FF?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind](https://img.shields.io/badge/Tailwind-E6FFFA?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-E6F7E6?style=for-the-badge&logo=node.js&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-FFF5E6?style=for-the-badge&logo=python&logoColor=3776AB)
-![Express.js](https://img.shields.io/badge/Express.js-F5F5F5?style=for-the-badge&logo=express&logoColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E6F3FF?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Node.js](https://img.shields.io/badge/Node.js-E6F7E6?style=flat-square&logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-FFF5E6?style=flat-square&logo=python&logoColor=3776AB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E6F3FF?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-E6F8FF?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-FFF4E6?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-FFE6E6?style=for-the-badge&logo=git&logoColor=F05032)
-![VSCode](https://img.shields.io/badge/VS_Code-E6F0FF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-E6F8FF?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-FFF4E6?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-FFE6E6?style=flat-square&logo=git&logoColor=F05032)
 
 </div>
 
-<div style="flex: 0 0 400px; text-align: center;">
+<div style="flex: 1; text-align: center;">
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="280" alt="Coding GIF" style="border-radius: 15px; filter: hue-rotate(320deg) saturate(0.7) brightness(1.1);"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="350" alt="Coding GIF" style="border-radius: 15px; filter: hue-rotate(320deg) saturate(0.7) brightness(1.1);"/>
 
 </div>
 
@@ -74,17 +71,17 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 ## Estatísticas & Atividade
 
-<div align="center">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical&bg_color=0d1117&title_color=B794F6&text_color=A0AEC0&icon_color=81E6D9&border_color=2D3748"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=default&bg_color=ffffff&title_color=333333&text_color=666666&icon_color=ff8451&border_color=e1e4e8" style="flex: 1; max-width: 400px;"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical&bg_color=0d1117&title_color=B794F6&text_color=A0AEC0&border_color=2D3748"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=default&bg_color=ffffff&title_color=333333&text_color=666666&border_color=e1e4e8" style="flex: 1; max-width: 400px;"/>
 
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seuusername&theme=radical&background=0d1117&ring=B794F6&fire=81E6D9&currStreakLabel=A0AEC0&border=2D3748)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seuusername&theme=default&background=ffffff&ring=ff8451&fire=ff8451&currStreakLabel=666666&border=e1e4e8)
 
 </div>
 
@@ -94,9 +91,9 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 <div align="center">
 
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=seuusername&repo=projeto-incrivel&theme=radical&bg_color=0d1117&title_color=B794F6&text_color=A0AEC0&icon_color=81E6D9&border_color=2D3748)](https://github.com/seuusername/projeto-incrivel)
+[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=seuusername&repo=projeto-incrivel&theme=default&bg_color=ffffff&title_color=333333&text_color=666666&icon_color=ff8451&border_color=e1e4e8)](https://github.com/seuusername/projeto-incrivel)
 
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=seuusername&repo=app-revolucionario&theme=radical&bg_color=0d1117&title_color=B794F6&text_color=A0AEC0&icon_color=81E6D9&border_color=2D3748)](https://github.com/seuusername/app-revolucionario)
+[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=seuusername&repo=app-revolucionario&theme=default&bg_color=ffffff&title_color=333333&text_color=666666&icon_color=ff8451&border_color=e1e4e8)](https://github.com/seuusername/app-revolucionario)
 
 </div>
 
@@ -115,7 +112,7 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seuusername&theme=redical&bg_color=0d1117&color=B794F6&line=81E6D9&point=A0AEC0&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seuusername&theme=github-compact&bg_color=ffffff&color=333333&line=ff8451&point=ff8451&area=true&hide_border=true)
 
 </div>
 
@@ -182,7 +179,7 @@ Top Contributor - React Community
 
 <div align="center">
 
-**"Transformando ideias em código, código em soluções, soluções em impacto!" 🚀**
+**"Transformando ideias em código, código em soluções, soluções em impacto!"**
 
 </div>
 
