@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1200&color=81E6D9&background=FFF5F500&center=true&vCenter=true&width=650&lines=Desenvolvedora+%F0%9F%92%BB;React+%26+Node.js+Specialist;Transformando+ideias+em+código;Olá!+Bem-vindo+ao+meu+universo!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1200&color=ff8451&background=FFF5F500&center=true&vCenter=true&width=650&lines=Desenvolvedora;Transformando+ideias+em+código;Olá!+Bem-vindo+ao+meu+universo!)
 
 </div>
 
@@ -64,7 +64,7 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 <div style="flex: 0 0 300px; text-align: center;">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF" style="border-radius: 15px; filter: hue-rotate(320deg) saturate(0.7) brightness(1.1);"/>
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FIndu-304%2FIndu-304&psig=AOvVaw2aeIkAZ3iINpP669CmV4__&ust=1751492247761000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjVxKLPnI4DFQAAAAAdAAAAABAE)" width="280" alt="Coding GIF" style="border-radius: 15px; filter: hue-rotate(320deg) saturate(0.7) brightness(1.1);"/>
 
 </div>
 
