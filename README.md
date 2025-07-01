@@ -1,14 +1,14 @@
-# 🌸 Olá, eu sou Giovana Kaori! 
+# Olá, eu sou Giovana Kaori! 
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=B794F6&background=FFF5F500&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!;Bem-vindo+ao+meu+perfil!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=B794F6&background=FFF5F500&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full+Stack;Apaixonada+por+Tecnologia;Sempre+aprendendo+algo+novo!;Bem-vindo+ao+meu+perfil!)
 
 </div>
 
 ---
 
-## 🎨 Sobre Mim
+## Sobre Mim
 
 ```typescript
 const desenvolvedor = {
@@ -22,8 +22,6 @@ const desenvolvedor = {
 ```
 
 <details>
-<summary>🌟 Mais sobre mim</summary>
-<br>
 
 🔭 Atualmente trabalhando em **projetos inovadores com React e Node.js**  
 🌱 Aprendendo **Machine Learning e Cloud Architecture**  
