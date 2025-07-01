@@ -38,33 +38,19 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 ## Arsenal Tecnológico
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-<tr>
-<td width="50%" valign="top" style="border: none; padding: 0;">
+<div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-FFE4E6?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-F0E6FF?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind](https://img.shields.io/badge/Tailwind-E6FFFA?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
+| 🛠️ **Frontend & UI** | 🎨 **Desenvolvimento Visual** |
+|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-FFE4E6?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-F0E6FF?style=for-the-badge&logo=typescript&logoColor=3178C6) | <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="250" alt="Coding Animation" style="border-radius: 20px; filter: hue-rotate(320deg) saturate(0.8) brightness(1.2);"/> |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-E6FFFA?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4) |  |
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-E6F7E6?style=flat-square&logo=node.js&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-FFF5E6?style=flat-square&logo=python&logoColor=3776AB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E6F3FF?style=flat-square&logo=postgresql&logoColor=4169E1)
+| ⚙️ **Backend & Database** | 🚀 **DevOps & Cloud** |
+|:---:|:---:|
+| ![Node.js](https://img.shields.io/badge/Node.js-E6F7E6?style=for-the-badge&logo=node.js&logoColor=339933) ![Python](https://img.shields.io/badge/Python-FFF5E6?style=for-the-badge&logo=python&logoColor=3776AB) | ![Docker](https://img.shields.io/badge/Docker-E6F8FF?style=for-the-badge&logo=docker&logoColor=2496ED) ![AWS](https://img.shields.io/badge/AWS-FFF4E6?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E6F3FF?style=for-the-badge&logo=postgresql&logoColor=4169E1) | ![Git](https://img.shields.io/badge/Git-FFE6E6?style=for-the-badge&logo=git&logoColor=F05032) |
 
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-E6F8FF?style=flat-square&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-FFF4E6?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-FFE6E6?style=flat-square&logo=git&logoColor=F05032)
-
-</td>
-<td width="50%" align="center" style="border: none; padding: 0;">
-
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="600" alt="Coding GIF" style="border-radius: 15px; filter: hue-rotate(320deg) saturate(0.7) brightness(1.1);"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -83,7 +69,6 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seuusername&theme=default&background=ffffff&ring=ff8451&fire=ff8451&currStreakLabel=666666&border=e1e4e8)
 
 </div>
-
 
 ---
 
@@ -121,6 +106,7 @@ Top Contributor - React Community
 ### Citação Favorita
 
 *"O código é poesia escrita para máquinas, mas lida por humanos."*
+
 
 ---
 
