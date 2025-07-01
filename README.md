@@ -40,7 +40,7 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
-<div style="flex: 1; padding-right: 20px;">
+<div style="flex: 1; padding-right: 10px;">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-FFE4E6?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -62,7 +62,7 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 </div>
 
-<div style="flex: 0 0 300px; text-align: center;">
+<div style="flex: 0 0 400px; text-align: center;">
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="280" alt="Coding GIF" style="border-radius: 15px; filter: hue-rotate(320deg) saturate(0.7) brightness(1.1);"/>
 
