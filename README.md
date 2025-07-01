@@ -38,7 +38,9 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 ## Arsenal Tecnológico
 
-<div align="center">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1; padding-right: 20px;">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-FFE4E6?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -57,6 +59,14 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 ![AWS](https://img.shields.io/badge/AWS-FFF4E6?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/Git-FFE6E6?style=for-the-badge&logo=git&logoColor=F05032)
 ![VSCode](https://img.shields.io/badge/VS_Code-E6F0FF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+
+</div>
+
+<div style="flex: 0 0 300px; text-align: center;">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF" style="border-radius: 15px; filter: hue-rotate(320deg) saturate(0.7) brightness(1.1);"/>
+
+</div>
 
 </div>
 
