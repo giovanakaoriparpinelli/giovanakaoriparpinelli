@@ -64,7 +64,7 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 <div style="flex: 0 0 300px; text-align: center;">
 
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FIndu-304%2FIndu-304&psig=AOvVaw2aeIkAZ3iINpP669CmV4__&ust=1751492247761000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjVxKLPnI4DFQAAAAAdAAAAABAE)" width="280" alt="Coding GIF" style="border-radius: 15px; filter: hue-rotate(320deg) saturate(0.7) brightness(1.1);"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="280" alt="Coding GIF" style="border-radius: 15px; filter: hue-rotate(320deg) saturate(0.7) brightness(1.1);"/>
 
 </div>
 
