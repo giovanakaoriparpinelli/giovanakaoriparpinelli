@@ -1,8 +1,8 @@
-# Olá, eu sou Giovana Kaori! 
+# Giovana Kaori Parpinelli 
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=B794F6&background=FFF5F500&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full+Stack;Apaixonada+por+Tecnologia;Sempre+aprendendo+algo+novo!;Bem-vindo+ao+meu+perfil!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1200&color=81E6D9&background=FFF5F500&center=true&vCenter=true&width=650&lines=Desenvolvedora+%F0%9F%92%BB;React+%26+Node.js+Specialist;Transformando+ideias+em+código;Olá!+Bem-vindo+ao+meu+universo!)
 
 </div>
 
@@ -14,7 +14,7 @@
 const desenvolvedor = {
     nome: "Giovana Kaori Parpinelli",
     localização: "Brasil 🇧🇷",
-    código: ["JavaScript", "TypeScript", "Python", "Java"],
+    código: ["JavaScript", "C#", "Python", "HTML", "CSS"],
     ferramentas: ["React", "Node.js", "Docker", "AWS"],
     paixões: ["Clean Code", "UI/UX", "Open Source"],
     objetivo: "Criar soluções que impactem positivamente as pessoas"
@@ -22,19 +22,21 @@ const desenvolvedor = {
 ```
 
 <details>
+<summary>Mais sobre mim</summary>
+<br>
 
-🔭 Atualmente trabalhando em **projetos inovadores com React e Node.js**  
-🌱 Aprendendo **Machine Learning e Cloud Architecture**  
-👯 Procuro colaborar em **projetos open source**  
-💬 Pergunte-me sobre **desenvolvimento web, APIs e arquitetura de software**  
-📫 Como me encontrar: **[seu-email@exemplo.com]**  
-⚡ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
+Atualmente trabalhando em **projetos inovadores com React e Node.js**  
+Aprendendo **Machine Learning e Cloud Architecture**  
+Procuro colaborar em **projetos open source**  
+Pergunte-me sobre **desenvolvimento web, APIs e arquitetura de software**  
+Como me encontrar: **kaoriparpinelli@gmail.com**  
+Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 </details>
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## Arsenal Tecnológico
 
 <div align="center">
 
@@ -60,7 +62,7 @@ const desenvolvedor = {
 
 ---
 
-## 📈 Estatísticas & Atividade
+## Estatísticas & Atividade
 
 <div align="center">
 
@@ -78,7 +80,7 @@ const desenvolvedor = {
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
 
@@ -88,7 +90,7 @@ const desenvolvedor = {
 
 </div>
 
-### 🌟 Principais Contribuições
+### Principais Contribuições
 
 | Projeto | Tecnologia | Contribuição | Status |
 |---------|------------|--------------|--------|
@@ -99,7 +101,7 @@ const desenvolvedor = {
 
 ---
 
-## 💡 Contribuições Open Source
+## Contribuições Open Source
 
 <div align="center">
 
@@ -107,39 +109,39 @@ const desenvolvedor = {
 
 </div>
 
-### 🎯 Impact Metrics
+### Impact Metrics
 
 <div align="center">
 
 | Métrica | Valor |
 |---------|-------|
-| 📦 **Repositórios Públicos** | 25+ |
-| ⭐ **Stars Recebidas** | 150+ |
-| 🤝 **Pull Requests** | 80+ |
-| 🐛 **Issues Resolvidas** | 120+ |
-| 👥 **Colaboradores** | 30+ |
+| **Repositórios Públicos** | 25+ |
+| **Stars Recebidas** | 150+ |
+| **Pull Requests** | 80+ |
+| **Issues Resolvidas** | 120+ |
+| **Colaboradores** | 30+ |
 
 </div>
 
 ---
 
-## 🎉 Conquistas & Certificações
+## Conquistas & Certificações
 
 <div align="center">
 
 ```
-🏆 GitHub Arctic Code Vault Contributor
-🥇 Hacktoberfest 2023 Participant  
-🎖️ AWS Certified Developer
-🏅 Google Developer Expert Candidate
-⭐ Top Contributor - React Community
+GitHub Arctic Code Vault Contributor
+Hacktoberfest 2023 Participant  
+AWS Certified Developer
+Google Developer Expert Candidate
+Top Contributor - React Community
 ```
 
 </div>
 
 ---
 
-## 📫 Vamos Conectar!
+## Vamos Conectar!
 
 <div align="center">
 
@@ -154,13 +156,13 @@ const desenvolvedor = {
 
 <div align="center">
 
-### 💭 Citação Favorita
+### Citação Favorita
 
 *"O código é poesia escrita para máquinas, mas lida por humanos."*
 
 ---
 
-<sub>💜 Obrigado por visitar meu perfil! Que tal darmos uma olhada nos meus repositórios?</sub>
+<sub>Obrigado por visitar meu perfil! Que tal darmos uma olhada nos meus repositórios?</sub>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seuusername&color=B794F6&style=flat-square&label=Visitantes)
 
@@ -170,12 +172,12 @@ const desenvolvedor = {
 
 <div align="center">
 
-**🌈 "Transformando ideias em código, código em soluções, soluções em impacto!" 🚀**
+**"Transformando ideias em código, código em soluções, soluções em impacto!" 🚀**
 
 </div>
 
 <!-- 
-    ✨ Easter Egg: Se você chegou até aqui, você é incrível! 
-    🎯 Este README foi criado com muito carinho e atenção aos detalhes
-    💝 Sinta-se livre para usar como inspiração para o seu próprio perfil
+    Easter Egg: Se você chegou até aqui, você é incrível! 
+    Este README foi criado com muito carinho e atenção aos detalhes
+    Sinta-se livre para usar como inspiração para o seu próprio perfil
 -->
