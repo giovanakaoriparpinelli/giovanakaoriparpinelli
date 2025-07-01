@@ -38,7 +38,7 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 ## Arsenal Tecnológico
 
-table style="border: none;">
+<table style="border: none;">
 <tr>
 <td width="50%" valign="top" style="border: none;">
 
