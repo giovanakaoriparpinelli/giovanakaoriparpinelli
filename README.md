@@ -60,7 +60,7 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 </td>
 <td width="50%" align="center">
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="350" alt="Coding GIF" style="border-radius: 15px; filter: hue-rotate(320deg) saturate(0.7) brightness(1.1);"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="500" alt="Coding GIF" style="border-radius: 15px; filter: hue-rotate(320deg) saturate(0.7) brightness(1.1);"/>
 
 </td>
 </tr>
