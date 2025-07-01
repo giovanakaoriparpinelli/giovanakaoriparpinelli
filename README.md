@@ -38,9 +38,9 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 ## Arsenal Tecnológico
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-<div style="flex: 0 0 300px; padding-right: 20px;">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-FFE4E6?style=flat-square&logo=react&logoColor=61DAFB)
@@ -57,15 +57,14 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 ![AWS](https://img.shields.io/badge/AWS-FFF4E6?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/Git-FFE6E6?style=flat-square&logo=git&logoColor=F05032)
 
-</div>
-
-<div style="flex: 1; text-align: center;">
+</td>
+<td width="50%" align="center">
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="350" alt="Coding GIF" style="border-radius: 15px; filter: hue-rotate(320deg) saturate(0.7) brightness(1.1);"/>
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -85,50 +84,6 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 </div>
 
----
-
-## Projetos em Destaque
-
-<div align="center">
-
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=seuusername&repo=projeto-incrivel&theme=default&bg_color=ffffff&title_color=333333&text_color=666666&icon_color=ff8451&border_color=e1e4e8)](https://github.com/seuusername/projeto-incrivel)
-
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=seuusername&repo=app-revolucionario&theme=default&bg_color=ffffff&title_color=333333&text_color=666666&icon_color=ff8451&border_color=e1e4e8)](https://github.com/seuusername/app-revolucionario)
-
-</div>
-
-### Principais Contribuições
-
-| Projeto | Tecnologia | Contribuição | Status |
-|---------|------------|--------------|--------|
-| 🎯 **TaskMaster Pro** | React + Node.js | Criador e Maintainer | ![Active](https://img.shields.io/badge/Active-4AE54A?style=flat-square) |
-| 🌐 **API Unificada** | Python + FastAPI | Contributor Principal | ![Active](https://img.shields.io/badge/Active-4AE54A?style=flat-square) |
-| 📊 **Dashboard Analytics** | Vue.js + D3.js | Frontend Lead | ![Completed](https://img.shields.io/badge/Completed-54C7EC?style=flat-square) |
-| 🤖 **ChatBot Inteligente** | Python + AI | ML Engineer | ![In Progress](https://img.shields.io/badge/In%20Progress-F6E96B?style=flat-square) |
-
----
-
-## Contribuições Open Source
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seuusername&theme=github-compact&bg_color=ffffff&color=333333&line=ff8451&point=ff8451&area=true&hide_border=true)
-
-</div>
-
-### Impact Metrics
-
-<div align="center">
-
-| Métrica | Valor |
-|---------|-------|
-| **Repositórios Públicos** | 25+ |
-| **Stars Recebidas** | 150+ |
-| **Pull Requests** | 80+ |
-| **Issues Resolvidas** | 120+ |
-| **Colaboradores** | 30+ |
-
-</div>
 
 ---
 
@@ -166,14 +121,6 @@ Top Contributor - React Community
 ### Citação Favorita
 
 *"O código é poesia escrita para máquinas, mas lida por humanos."*
-
----
-
-<sub>Obrigado por visitar meu perfil! Que tal darmos uma olhada nos meus repositórios?</sub>
-
-![Profile Views](https://komarev.com/ghpvc/?username=seuusername&color=B794F6&style=flat-square&label=Visitantes)
-
-</div>
 
 ---
 
