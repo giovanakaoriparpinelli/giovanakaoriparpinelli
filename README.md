@@ -81,7 +81,7 @@ Top Contributor - React Community
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1200&color=ff8451&background=FFF5F500&center=true&vCenter=true&width=650&lines=O+códgo+é+poesia+escrita+para+máquinas,+mas+lida+por+humanos.;Transformando+ideias+em+código,+código+em+soluções,+soluções+em+impacto!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1200&color=ff8451&background=FFF5F500&center=true&vCenter=true&width=650&lines=O+c%C3%B3digo+%C3%A9+poesia+escrita+para+m%C3%A1quinas,+mas+lida+por+humanos.;Transformando+ideias+em+c%C3%B3digo,+c%C3%B3digo+em+solu%C3%A7%C3%B5es,+solu%C3%A7%C3%B5es+em+impacto!)
 
 </div>
 
