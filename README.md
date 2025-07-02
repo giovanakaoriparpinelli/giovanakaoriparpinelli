@@ -38,7 +38,7 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 ## Tecnologias
 
-<div style="display: inline_block; align-items: center;"><br>
+<div align="center">
   <img align="center" alt="Gi-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gi-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gi-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -46,24 +46,6 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
   <img align="center" alt="Gi-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gi-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gi-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
----
-
-## Estatísticas & Atividade
-
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=default&bg_color=ffffff&title_color=333333&text_color=666666&icon_color=ff8451&border_color=e1e4e8" style="flex: 1; max-width: 400px;"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=default&bg_color=ffffff&title_color=333333&text_color=666666&border_color=e1e4e8" style="flex: 1; max-width: 400px;"/>
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seuusername&theme=default&background=ffffff&ring=ff8451&fire=ff8451&currStreakLabel=666666&border=e1e4e8)
-
 </div>
 
 ---
@@ -98,16 +80,8 @@ Top Contributor - React Community
 ---
 
 <div align="center">
-
-### Citação Favorita
-
-*"O código é poesia escrita para máquinas, mas lida por humanos."*
-
----
-
-<div align="center">
-
-**"Transformando ideias em código, código em soluções, soluções em impacto!"**
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1200&color=ff8451&background=FFF5F500&center=true&vCenter=true&width=650&lines=O+códgo+é+poesia+escrita+para+máquinas,+mas+lida+por+humanos.;Transformando+ideias+em+código,+código+em+soluções,+soluções+em+impacto!)
 
 </div>
 
