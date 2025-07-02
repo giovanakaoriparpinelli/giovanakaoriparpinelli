@@ -29,7 +29,6 @@ Atualmente trabalhando em **projetos inovadores com React e Node.js**
 Aprendendo **Machine Learning e Cloud Architecture**  
 Procuro colaborar em **projetos open source**  
 Pergunte-me sobre **desenvolvimento web, APIs e arquitetura de software**  
-Como me encontrar: **kaoriparpinelli@gmail.com**  
 Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 
 </details>
@@ -66,14 +65,13 @@ Top Contributor - React Community
 
 ---
 
-## Vamos Conectar!
+## Vamos nos Conectar!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6F0FF?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/seulinkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-E6F8FF?style=for-the-badge&logo=twitter&logoColor=1DA1F2)  ](https://twitter.com/seutwitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFE6F0?style=for-the-badge&logo=firefox&logoColor=FF4154)](https://seuportfolio.com)
-[![Email](https://img.shields.io/badge/Email-FFF0E6?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6F0FF?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/giovanakaoriparpinelli/)
+[![Instagram](https://img.shields.io/badge/Instagram-FCE4EC?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/giovanakaori_/)
+[![Email](https://img.shields.io/badge/Email-FFF0E6?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:kaoriparpinelli@gmail.com)
 
 </div>
 
