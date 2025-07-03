@@ -25,11 +25,9 @@ const desenvolvedor = {
 <summary>Mais sobre mim</summary>
 <br>
 
-Atualmente trabalhando em **projetos inovadores com React e Node.js**  
-Aprendendo **Machine Learning e Cloud Architecture**  
-Procuro colaborar em **projetos open source**  
-Pergunte-me sobre **desenvolvimento web, APIs e arquitetura de software**  
-Fato curioso: **Adoro resolver problemas complexos com código elegante!**
+Atualmente trabalhando em **projetos inovadores**  
+Estudante na **Universidade Tecnológica Federal do Paraná**  
+**Adoro resolver problemas complexos com código elegante!**
 
 </details>
 
@@ -54,11 +52,8 @@ Fato curioso: **Adoro resolver problemas complexos com código elegante!**
 <div align="center">
 
 ```
-GitHub Arctic Code Vault Contributor
-Hacktoberfest 2023 Participant  
-AWS Certified Developer
-Google Developer Expert Candidate
-Top Contributor - React Community
+🤍 Lean Seis Sigma White Belt
+💛 Lean Seis Sigma Yellow Belt
 ```
 
 </div>
