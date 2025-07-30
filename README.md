@@ -11,7 +11,7 @@
 ## Sobre Mim
 
 ```typescript
-const desenvolvedor = {
+const desenvolvedora = {
     nome: "Giovana Kaori Parpinelli",
     localização: "Brasil 🇧🇷",
     código: ["JavaScript", "C#", "Python", "HTML", "CSS"],
