@@ -15,6 +15,9 @@ Isso me ajuda a entender o problema do usuário antes de escrever código.
 ## Tecnologias
 HTML, CSS, SQL, C, JavaScript (em evolução)
 
+## Portifólio
+https://giovanakaoriparpinelli.github.io/
+
 ## Contato
 https://www.linkedin.com/in/giovanakaoriparpinelli | kaoriparpinelli@gmail.com
 
